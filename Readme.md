@@ -1,5 +1,8 @@
 # House Sales in King County, USA - Machine Learning Project
 
+![King County, WA](https://github.com/ishikawa-yui/King_County_House_price_pred_using_ANNs_ML/assets/71602299/0f65efeb-4c5e-41ca-b800-b61be137adcb)
+
+
 Welcome to the "House Sales in King County, USA" machine learning project repository. In this project, we analyze a dataset containing house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015. This dataset is ideal for evaluating simple regression models.
 
 ## Dataset Details
