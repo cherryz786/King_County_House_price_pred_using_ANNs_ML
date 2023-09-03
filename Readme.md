@@ -47,3 +47,13 @@ We built a regression model using Artificial Neural Networks (ANN) with TensorFl
 ```python
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation
+```
+
+We also used the Adam optimizer for training the model.
+
+## Model Evaluation
+To evaluate the model's performance, we utilized the following metrics:
+
+- **mean_squared_error**: Measures the average squared difference between predicted and actual values.
+- **mean_absolute_error**: Measures the average absolute difference between predicted and actual values.
+- **explained_variance_score**: Measures the proportion of variance in the target variable that is explained by the model.
